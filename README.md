@@ -14,4 +14,4 @@ npm run start
 ```
 ## Then you will see this
 
-### Demo: [Demo](https://cofcat456.github.io/react-tailwindcss-start-project/)
+### [Demo](https://cofcat456.github.io/react-tailwindcss-start-project/)
