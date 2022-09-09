@@ -12,6 +12,6 @@ npm i
 ```sh
 npm run start
 ```
-### Then you will see this
+## Then you will see this
 
-Demo: [Demo]('https://cofcat456.github.io/react-tailwindcss-start-project/')
+### Demo: [Demo](https://cofcat456.github.io/react-tailwindcss-start-project/)
